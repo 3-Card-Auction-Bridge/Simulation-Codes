@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/asus/OneDrive/Desktop/media/videos/bridge_full_demo/1080p60/partial_movie_files/ShowHand/2257293077_2907257511_223132457.mp4'
+file 'file:C:/Users/asus/OneDrive/Desktop/media/videos/bridge_full_demo/1080p60/partial_movie_files/ShowHand/2135761390_260067353_3259187623.mp4'
+file 'file:C:/Users/asus/OneDrive/Desktop/media/videos/bridge_full_demo/1080p60/partial_movie_files/ShowHand/2135761390_2844360058_1468887115.mp4'
